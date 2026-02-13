@@ -1,1 +1,1 @@
-Initial whitepaper for Mayomu concept (v0.1).
+Initial whitepaper for Mayomu concept.
